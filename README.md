@@ -1,29 +1,39 @@
-# gshop
+# go_shop_client
 
-> A Vue.js project
+#### 介绍
+这是一个基于vue的前后端分离外卖项目
 
-## Build Setup
-这是一个前后端分离的Vue项目
-
-使用技术
-    vue,vuex,stylus,html,css
-使用库
-    moment date-fns vue-loader vuex router
-    VueLazyload mint-ui Better-scroll swipper
+1. 确保自己有mongodb 端口为27017
+2. 确保自己安装了Note.js
+#### 软件架构
+软件架构说明
 
 
-``` bash
-# install dependencies
-npm install
+#### 安装教程
 
-# serve with hot reload at localhost:8080
-npm run dev
+1. git clone https://gitee.com/liner123/go_shop_client.git
+2. 使用vscode或者WebStorm打开
+3. npm install
+4. npm run dev
+5. 后端代码 https://gitee.com/liner123/guli_shop_server.git
 
-# build for production with minification
-npm run build
+#### 使用说明
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+无
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+#### 参与贡献
+
+1.  Fork 本仓库
+2.  新建 Feat_xxx 分支
+3.  提交代码
+4.  新建 Pull Request
+
+
+#### 码云特技
+
+1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
+2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
+3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
+4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
+5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
+6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
